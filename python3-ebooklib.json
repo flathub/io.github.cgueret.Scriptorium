@@ -7,13 +7,22 @@
     "sources": [
         {
             "type": "file",
-            "url": "https://files.pythonhosted.org/packages/e8/1d/90bb33317d756c25b40bb55312dda30a94afb691755763fc00976250c82b/EbookLib-0.18.tar.gz",
-            "sha256": "38562643a7bc94d9bf56e9930b4927e4e93b5d1d0917f697a6454db5a1c1a533"
+            "url": "https://files.pythonhosted.org/packages/66/59/e63fd0b3410d2ab7a8971b070f40390f1fbeb3c7a85849718c8480313cbf/ebooklib-0.19-py3-none-any.whl",
+            "sha256": "a790e280e1d5ef105e350e34cc88b83c9c987fa6bab8a63a7543410c313cfa31",
+            "x-checker-data": {
+                "type": "pypi",
+                "name": "ebooklib",
+                "packagetype": "bdist_wheel"
+            }
         },
         {
             "type": "file",
-            "url": "https://files.pythonhosted.org/packages/ef/f6/c15ca8e5646e937c148e147244817672cf920b56ac0bf2cc1512ae674be8/lxml-5.3.1.tar.gz",
-            "sha256": "106b7b5d2977b339f1e97efe2778e2ab20e99994cbb0ec5e55771ed0795920c8"
+            "url": "https://files.pythonhosted.org/packages/c5/ed/60eb6fa2923602fba988d9ca7c5cdbd7cf25faa795162ed538b527a35411/lxml-6.0.0.tar.gz",
+            "sha256": "032e65120339d44cdc3efc326c9f660f5f7205f3a535c1fdbf898b29ea01fb72",
+            "x-checker-data": {
+                "type": "pypi",
+                "name": "lxml"
+            }
         }
     ]
 }
