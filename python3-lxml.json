@@ -1,0 +1,18 @@
+{
+    "name": "python3-lxml",
+    "buildsystem": "simple",
+    "build-commands": [
+        "pip3 install --verbose --exists-action=i --no-index --find-links=\"file://${PWD}\" --prefix=${FLATPAK_DEST} \"lxml\" --ignore-installed --no-build-isolation"
+    ],
+    "sources": [
+        {
+            "type": "file",
+            "url": "https://files.pythonhosted.org/packages/8f/bd/f9d01fd4132d81c6f43ab01983caea69ec9614b913c290a26738431a015d/lxml-6.0.1.tar.gz",
+            "sha256": "2b3a882ebf27dd026df3801a87cf49ff791336e0f94b0fad195db77e01240690",
+            "x-checker-data": {
+                "type": "pypi",
+                "name": "lxml"
+            }
+        }
+    ]
+}
