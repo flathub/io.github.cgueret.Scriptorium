@@ -17,3 +17,8 @@ flatpak run --command=flatpak-builder-lint org.flatpak.Builder manifest io.githu
 flatpak run --command=flatpak-builder-lint org.flatpak.Builder repo repo
 ```
 
+To check if packages are outdated
+```
+flatpak run org.flathub.flatpak-external-data-checker io.github.cgueret.Scriptorium.json
+```
+
