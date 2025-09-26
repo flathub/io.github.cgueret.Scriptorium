@@ -1,7 +1,7 @@
 {
     "id": "io.github.cgueret.Scriptorium",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "48",
+    "runtime-version": "49",
     "sdk": "org.gnome.Sdk",
     "sdk-extensions": [
         "org.freedesktop.Sdk.Extension.openjdk21"
@@ -98,7 +98,7 @@
             ]
         },
         "python3-lxml.json",
-        "python3-EbookLib.json",
+        "python3-ebooklib.json",
         "python3-beautifulsoup4.json",
         "python3-pyyaml.json",
         "python3-GitPython.json",
@@ -109,8 +109,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/cgueret/Scriptorium.git",
-                    "tag": "v1.0.1",
-                    "commit": "76051234ee4d133d9fd650d7fa22b0de9c2c649e",
+                    "tag": "v1.1.0",
+                    "commit": "e08d1a9dc1915f3c9e3e8c8408dd0cc21d258785",
                     "x-checker-data": {
                         "type": "git",
                         "tag-pattern": "^v([\\d.]+)$"
