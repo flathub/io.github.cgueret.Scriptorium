@@ -109,8 +109,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/cgueret/Scriptorium.git",
-                    "tag": "v1.0.1",
-                    "commit": "76051234ee4d133d9fd650d7fa22b0de9c2c649e",
+                    "tag": "v1.1.0",
+                    "commit": "e08d1a9dc1915f3c9e3e8c8408dd0cc21d258785",
                     "x-checker-data": {
                         "type": "git",
                         "tag-pattern": "^v([\\d.]+)$"
