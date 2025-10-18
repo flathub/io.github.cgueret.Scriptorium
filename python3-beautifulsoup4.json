@@ -7,8 +7,8 @@
     "sources": [
         {
             "type": "file",
-            "url": "https://files.pythonhosted.org/packages/04/eb/f4151e0c7377a6e08a38108609ba5cede57986802757848688aeedd1b9e8/beautifulsoup4-4.13.5-py3-none-any.whl",
-            "sha256": "642085eaa22233aceadff9c69651bc51e8bf3f874fb6d7104ece2beb24b47c4a",
+            "url": "https://files.pythonhosted.org/packages/28/4f/3e23dfc8b4951103028d30f29e17aa703a87564abd71bc405964c36326dc/beautifulsoup4-4.14.0-py3-none-any.whl",
+            "sha256": "aee96fbccdf2d2a8d1288b2afa51fc76bb60823b7881a50fb1ed5f711d1a7d73",
             "x-checker-data": {
                 "type": "pypi",
                 "name": "beautifulsoup4",
