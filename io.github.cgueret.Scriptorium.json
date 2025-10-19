@@ -4,7 +4,7 @@
     "runtime-version": "49",
     "sdk": "org.gnome.Sdk",
     "sdk-extensions": [
-        "org.freedesktop.Sdk.Extension.openjdk21"
+        "org.freedesktop.Sdk.Extension.openjdk25"
     ],
     "command": "scriptorium",
     "finish-args": [
@@ -73,7 +73,7 @@
                     "name": "openjdk",
                     "buildsystem": "simple",
                     "build-commands": [
-                        "/usr/lib/sdk/openjdk21/install.sh"
+                        "/usr/lib/sdk/openjdk25/install.sh"
                     ]
                 }
             ]
