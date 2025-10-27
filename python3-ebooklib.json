@@ -7,8 +7,8 @@
     "sources": [
         {
             "type": "file",
-            "url": "https://files.pythonhosted.org/packages/66/59/e63fd0b3410d2ab7a8971b070f40390f1fbeb3c7a85849718c8480313cbf/ebooklib-0.19-py3-none-any.whl",
-            "sha256": "a790e280e1d5ef105e350e34cc88b83c9c987fa6bab8a63a7543410c313cfa31",
+            "url": "https://files.pythonhosted.org/packages/bf/ee/aa015c5de8b0dc42a8e507eae8c2de5d1c0e068c896858fec6d502402ed6/ebooklib-0.20-py3-none-any.whl",
+            "sha256": "fff5322517a37e31c972d27be7d982cc3928c16b3dcc5fd7e8f7c0f5d7bcf42b",
             "x-checker-data": {
                 "type": "pypi",
                 "name": "ebooklib",
