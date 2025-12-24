@@ -90,8 +90,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/cgueret/Scriptorium.git",
-                    "tag": "v1.1.0",
-                    "commit": "e08d1a9dc1915f3c9e3e8c8408dd0cc21d258785",
+                    "tag": "v1.2.0",
+                    "commit": "d8c57f14588d8b992249d88503055afb58a44375",
                     "x-checker-data": {
                         "type": "git",
                         "tag-pattern": "^v([\\d.]+)$"
