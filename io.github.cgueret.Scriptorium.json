@@ -1,7 +1,7 @@
 {
     "id": "io.github.cgueret.Scriptorium",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "50",
+    "runtime-version": "51",
     "sdk": "org.gnome.Sdk",
     "sdk-extensions": [
         "org.freedesktop.Sdk.Extension.openjdk25"
@@ -67,8 +67,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/cgueret/Scriptorium.git",
-                    "tag": "v1.3.0",
-                    "commit": "707631c9ed826322e88753f989fa4b1e776d456c",
+                    "tag": "v1.3.1",
+                    "commit": "bb7694a0f8e62cacce380c475629be8e6f48d921",
                     "x-checker-data": {
                         "type": "git",
                         "tag-pattern": "^v([\\d.]+)$"
