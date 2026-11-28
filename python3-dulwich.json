@@ -7,8 +7,8 @@
     "sources": [
         {
             "type": "file",
-            "url": "https://files.pythonhosted.org/packages/6d/0e/e44bc7c8619596af498738917bb21f8511d0f928f32cae0c4a2ba01fdebd/dulwich-1.2.21-py3-none-any.whl",
-            "sha256": "31a522b9611e8032a43b8fb6941469c24e65ff4f14e0427986c58e90c22e154f",
+            "url": "https://files.pythonhosted.org/packages/5a/57/e264e7f210c0e08c8090961d07f485f5023a750cfbd41bcf608dffa49ba0/dulwich-1.2.22-py3-none-any.whl",
+            "sha256": "3e5b37a2af11e92a8ae17d32ea232175b26bcfd99569dadc17342ef100d2a99a",
             "x-checker-data": {
                 "type": "pypi",
                 "name": "dulwich",
